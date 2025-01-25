@@ -1,4 +1,4 @@
-# Digit Classification Using Neural Networks
+# Handwritten Digit Classification Using Neural Networks
 This project demonstrates how to train a neural network to classify handwritten digits using the Digits dataset from scikit-learn.
 The dataset consists of 1797 8x8 pixel images of handwritten digits, each labeled with the corresponding digit (0-9).
 The task is to classify these images into one of 10 classes, representing the digits 0 to 9.
