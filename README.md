@@ -56,10 +56,8 @@ This indicates that the model achieved approximately 97.22% accuracy on the test
 # Predictions:
 The model makes predictions on the test set, and the predicted classes are compared with the true classes. An example output is shown below:
 
-Predicted classes: [6 9 3 7 2 1 5 2 5 2 1 9 4 0 4 2 3 7 8 8 4 3 9 7 5 6 
-3 5 6 3 4 9 1 4 4 6 9 4 5 8 7 9 8 6 0 6 2 0 7 9 8 9 5 2 7 7 9 8 7 4 3 8 3 5]
-True classes: [6 9 3 7 2 1 5 2 5 2 1 9 4 0 4 2 3 7 8 8 4 3 9 7 5 6 3 5 6
-3 4 9 1 4 4 6 9 4 5 8 7 9 8 5 0 6 2 0 7 9 8 9 5 2 7 7 1 8 7 4 3 8 3 5]
+Predicted classes: [6 9 3 7 2 1 5 2 5 3 5 6 3 4 9 1 4 4 6 9 4 5 8 7 9 8 6 0 6 2 0 7 9 8 9 5 2 7 7 9 8 7 4 3 8 3 5]
+True classes: [6 9 3 7 2 1 5 2 5 3 4 9 1 4 4 6 9 4 5 8 7 9 8 5 0 6 2 0 7 9 8 9 5 2 7 7 1 8 7 4 3 8 3 5]
 
 # Explanation:
 Training Output: Displays the loss and accuracy for both the training and validation sets after each epoch.
